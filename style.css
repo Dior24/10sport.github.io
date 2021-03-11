@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    padding: 50px
+}
+h2 {
+    padding-left: 15px;
+}
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 16px 25px 8px 0; /* Отступы вокруг картинки */
+    
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+   }
+
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+h6 {
+    margin-top: 20px;
+    margin-right: 1em;
+    margin-bottom: 5%;
+    margin-left: auto;
+    margin-top: inherit;
+    margin-right: initial; 
+    margin-left: 25px;
+}
+
+.main {
+    padding-top: 10px;
+
+}
